@@ -1,0 +1,9 @@
+{
+	"appId": "com.purbasha.portfolio",
+	"appName": "purbashaporfoliooo",
+	"webDir": "dist",
+	"android": {
+		"allowMixedContent": true,
+		"backgroundColor": "#0a0d14"
+	}
+}

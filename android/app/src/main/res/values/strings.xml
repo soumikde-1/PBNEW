@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">purbashaporfoliooo</string>
+    <string name="title_activity_main">purbashaporfoliooo</string>
+    <string name="package_name">com.purbasha.portfolio</string>
+    <string name="custom_url_scheme">com.purbasha.portfolio</string>
+</resources>
